@@ -6,6 +6,10 @@
     padding: 20px;
     margin: auto;
 }
+p{
+    text-justify: auto;
+    font-size: 16;
+}
 
 body{
     background-color: #571807;
